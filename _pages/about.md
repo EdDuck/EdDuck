@@ -1,11 +1,15 @@
 ---
-title: "Docker tricks"
-categories:
-  - Docker
+title: "About me..."
+layout: single
 tags:
-  - Docker
-  - Tricks
+permalink: /about/
+modified: 2022-02-15
+excerpt: "<br>"
+author: EdDuck
+comments: false
 ---
+
+## Bio
 
 # **How to Stop All Docker Containers**
 
