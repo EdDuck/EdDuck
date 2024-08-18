@@ -2,7 +2,7 @@
 title: "Tips and scripts"
 excerpt_separator: "<!--more-->"
 categories:
-  - Post Formats
+  - Tips
 tags:
   - tips
   - scripts
