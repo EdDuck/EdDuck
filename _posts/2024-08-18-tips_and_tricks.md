@@ -1,14 +1,12 @@
 ---
-title: "Post: Standard"
+title: "Tips and scripts"
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - tips
+  - scripts
 ---
-# Tips and scripts for the job
 
 # Обновление Ubuntu с 18.04 до 20.04
 
